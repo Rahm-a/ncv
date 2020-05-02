@@ -1,0 +1,15 @@
+
+  .user-box h1{
+    color:black;
+    font-weight: bold;
+    margin:10px;
+    text-shadow: 2px 2px rgb(122, 120, 11);
+}
+
+.jumbotron text-center{
+    margin-bottom:0;
+    align-content: center;
+}
+
+
+
